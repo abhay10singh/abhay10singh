@@ -1,5 +1,5 @@
 # 💫 About Me
-I’m Abhay Singh, an Instrumentation & Control Engineering undergraduate at NIT Jalandhar. I’m passionate about building AI‑integrated solutions and currently seeking internship opportunities to gain hands‑on experience with cutting‑edge technologies.
+I’m Abhay Singh, an Instrumentation & Control Engineering undergraduate at NIT Jalandhar. I’m passionate about building AI‑integrated Full-Stack solutions and to gain hands‑on experience with cutting‑edge technologies.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay10singh)  
