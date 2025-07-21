@@ -10,34 +10,24 @@ I’m Abhay Singh, an Instrumentation & Control Engineering undergraduate at NIT
 <!--Languages -->
 <h3 align="left">Languages:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,solidity,go" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py" />
 </a>
 
 <!--WebDev -->
 <h3 align="left">Web Development:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express,flask,postman,react,redux,nextjs,vite,nginx" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express,postman,react,redux,nextjs,vite,recoil" />
 </a>
 
 <h3 align="left">Databases:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=redis,ipfs,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,superbase" />
 </a>
   <!-- Tools -->
 <h3 align="left">Tools:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,regex,docker,kubernetes,aws,gcp,npm,vercel,prisma,kafka,appwrite,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,npm,vercel,prisma" />
 </a>
-
-
-
-
-## 🛠️ Skills
-- **AI/ML:** TensorFlow • PyTorch • scikit-learn • OpenCV  
-- **Frontend:** React • Next.js • ShadCN UI • Chakra UI • Tailwind CSS • HTML5 • CSS3 • JavaScript • TypeScript  
-- **Backend:** Node.js • Express.js • RESTful API design • GraphQL  
-- **Databases:** MongoDB • PostgreSQL • MySQL  
-- **DevOps & CI/CD:** Git • Docker • GitHub Actions • Vercel • Netlify • AWS • Google Cloud
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay10singh&theme=dark&include_all_commits=false&count_private=false)  
