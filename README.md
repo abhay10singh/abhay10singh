@@ -1,10 +1,16 @@
+
 # 💫 About Me
 I’m Abhay Singh, an Instrumentation & Control Engineering undergraduate at NIT Jalandhar. I’m passionate about building AI‑integrated Full-Stack solutions and to gain hands‑on experience with cutting‑edge technologies.
+<!-- Slack -->
+
+
+<!-- Recoil -->
+
+
+
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay10singh)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/abhay10singh3i)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhay10singh2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay10singh)  [![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/abhay10singh3i)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhay10singh2004@gmail.com)
 
 ## 💻 Tech Stack
 <!--Languages -->
@@ -16,18 +22,21 @@ I’m Abhay Singh, an Instrumentation & Control Engineering undergraduate at NIT
 <!--WebDev -->
 <h3 align="left">Web Development:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express,postman,react,redux,nextjs,vite,recoil" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express,postman,react,redux,nextjs,vite" />
 </a>
 
 <h3 align="left">Databases:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,superbase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
 </a>
   <!-- Tools -->
 <h3 align="left">Tools:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,npm,vercel,prisma" />
+   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,npm,vercel,prisma" />
+  
 </a>
+
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay10singh&theme=dark&include_all_commits=false&count_private=false)  
