@@ -16,9 +16,7 @@ I’m Abhay Singh, an Instrumentation & Control Engineering undergraduate at NIT
 - **Frontend:** React • Next.js • ShadCN UI • Chakra UI • Tailwind CSS • HTML5 • CSS3 • JavaScript • TypeScript  
 - **Backend:** Node.js • Express.js • RESTful API design • GraphQL  
 - **Databases:** MongoDB • PostgreSQL • MySQL  
-- **DevOps & CI/CD:** Git • Docker • Kubernetes • GitHub Actions • Vercel • Netlify • AWS • Google Cloud  
-- **Testing & Quality:** Jest • React Testing Library • Cypress • ESLint • Prettier  
-- **Other:** Bash scripting • Linux • Agile/Scrum • Git Querying & Workflows
+- **DevOps & CI/CD:** Git • Docker • GitHub Actions • Vercel • Netlify • AWS • Google Cloud
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay10singh&theme=dark&include_all_commits=false&count_private=false)  
