@@ -28,6 +28,6 @@ I’m Abhay Singh, an Instrumentation & Control Engineering undergraduate at NIT
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=abhay10singh&theme=radical&no-bg=true&margin-w=4)
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=abhay10singh&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abhay10singh.abhay10singh)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
