@@ -38,14 +38,24 @@ I’m Abhay Singh, an Instrumentation & Control Engineering undergraduate at NIT
 
 
 
-## 📊 GitHub Stats
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay10singh&theme=dark) 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=abhay10singh&theme=dark&hide_border=false)  
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhay10singh&theme=dark)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=abhay10singh&theme=radical&no-bg=true&margin-w=4)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhay10singh&theme=dark&no-bg=true&margin-w=4" alt="abhay10singh's Trophies" />
+</a>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abhay10singh.abhay10singh)
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay10singh&theme=dark" alt="Profile Details" />
+
+<img src="https://streak-stats.demolab.com?user=abhay10singh&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhay10singh&theme=dark" alt="Top Languages" />
+
+<br/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=abhay10singh.abhay10singh" alt="Visitor Count" />
+
+</div>
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
