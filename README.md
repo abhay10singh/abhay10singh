@@ -42,15 +42,13 @@ I’m Abhay Singh, an Instrumentation & Control Engineering undergraduate at NIT
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay10singh&theme=dark) 
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=abhay10singh&theme=dark&hide_border=false)  
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhay10singh&theme=dark)
 
 
 
-## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=abhay10singh&theme=radical&no-bg=true&margin-w=4)
+
+## 🏆 Visitor Count
+
 
 
 
