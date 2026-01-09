@@ -38,24 +38,22 @@ I’m Abhay Singh, an Instrumentation & Control Engineering undergraduate at NIT
 
 
 
-<div align="center">
+## 📊 GitHub Stats
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhay10singh&theme=dark&no-bg=true&margin-w=4" alt="abhay10singh's Trophies" />
-</a>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay10singh&theme=dark) 
 
-<br/>
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=abhay10singh&theme=dark&hide_border=false)  
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay10singh&theme=dark" alt="Profile Details" />
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhay10singh&theme=dark)
 
-<img src="https://streak-stats.demolab.com?user=abhay10singh&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhay10singh&theme=dark" alt="Top Languages" />
 
-<br/>
+## 🏆 GitHub Trophies
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=abhay10singh.abhay10singh" alt="Visitor Count" />
+![Trophies](https://github-profile-trophy.vercel.app/?username=abhay10singh&theme=radical&no-bg=true&margin-w=4)
 
-</div>
+
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abhay10singh.abhay10singh)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
