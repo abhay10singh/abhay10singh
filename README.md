@@ -12,6 +12,10 @@ I’m Abhay Singh, an Instrumentation & Control Engineering undergraduate at NIT
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay10singh)  [![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/abhay10singh3i)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhay10singh2004@gmail.com)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTdqbmU3em4xdWs0dHhnazZxOTAzcGZodnM2YTlpdWZ4NHByZmhjdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbtJJPft2P7rcpbBdb/giphy.gif" />
+  </div>
+
 ## 💻 Tech Stack
 <!--Languages -->
 <h3 align="left">Languages:</h3>
